@@ -1,0 +1,7 @@
+google-genai>=1.0.0
+google-adk>=0.3.0
+nemoguardrails>=0.10.0
+openai>=1.0.0
+litellm>=1.75.5
+langchain-openai>=0.2.0
+annoy>=1.17.3
